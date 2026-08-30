@@ -14,6 +14,8 @@ avalable_on:
   - lenovo
   - vivo
 lyricist: S. Ramesan Nair
+playlists:
+  - September 26
 ---
 ഓ പ്രിയേ പ്രിയേ നിനക്കൊരു ഗാനം  
 ഓ പ്രിയേ പ്രാണനിലുണരും ഗാനം  

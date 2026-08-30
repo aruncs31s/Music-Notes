@@ -12,4 +12,7 @@ avalable_on:
   - mac
   - lenovo
   - vivo
+playlists:
+  - September 26
+p1_order: "3"
 ---

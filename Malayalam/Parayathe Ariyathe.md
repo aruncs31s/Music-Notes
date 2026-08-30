@@ -4,6 +4,11 @@ tags:
   - music
 status: true
 rating: "10"
+playlists:
+  - September 26
+p1_order: "5"
+avalable_on:
+  - lenovo
 ---
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1PhS0Htm6K7b8UVgVMoEnM?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 # Parayathe Ariyathe
