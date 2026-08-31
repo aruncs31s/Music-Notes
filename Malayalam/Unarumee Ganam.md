@@ -1,6 +1,5 @@
 ---
 tags:
-  - music
   - malayalam
 playlists:
   - September 26

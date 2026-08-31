@@ -1,7 +1,6 @@
 ---
 tags:
   - malayalam
-  - music
 track: "1"
 album: Agnidevan (Orginal Motion Picture Soundtrack)
 year: "1995"

@@ -1,7 +1,6 @@
 ---
 tags:
   - malayalam
-  - music
 track: O Priye
 album: Aniyathipraavu
 year: "1997"

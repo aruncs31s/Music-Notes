@@ -6,6 +6,6 @@ avalable_on:
   - lenovo
 tags:
   - malayalam
-  - music
+  - romantic
 rating: "100"
 ---

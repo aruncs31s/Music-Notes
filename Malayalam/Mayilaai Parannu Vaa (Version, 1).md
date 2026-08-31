@@ -1,7 +1,7 @@
 ---
 tags:
   - malayalam
-  - music
+  - romantic
 track: "1"
 album: Mayilppeelikkavu (Original Motion Picture Soundtrack)
 year:

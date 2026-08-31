@@ -6,7 +6,6 @@ album artist: S.P. Venkatesh/Papanasam Sivan
 year: "1991"
 track: "3"
 tags:
-  - music
   - malayalam
 rating: "10"
 image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPXGYqaoiWJqpqWkNmV4msmL8289i4oCsyMaBg4Qt2ch_djOsO4DT_JcFdfJO28bMX6gKeo-ekvPPuBQO4v66idIHa5e6ivvl3KrDhQ0pk&s=10

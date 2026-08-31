@@ -6,8 +6,11 @@ views:
     filters:
       and:
         - playlists.contains("September 26")
+        - '!file.name.contains("current")'
+    groupBy:
+      property: tags
+      direction: ASC
     order:
-      - formula.F1
       - p1_order
       - file.name
       - tags
@@ -15,7 +18,6 @@ views:
       - album
       - rating
       - avalable_on
-      - file.tags
     sort:
       - property: p1_order
         direction: ASC

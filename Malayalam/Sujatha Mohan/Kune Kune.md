@@ -6,7 +6,6 @@ album artist:
 year: "1992"
 track: "1"
 tags:
-  - music
   - malayalam
 rating: "10"
 image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4BuQNBaOcCorggdDm1NvXCnYgeDKBLZ_tM-i_n2_vBA&s=10

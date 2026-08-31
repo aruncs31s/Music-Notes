@@ -1,7 +1,6 @@
 ---
 tags:
   - malayalam
-  - music
 status: true
 rating: "10"
 playlists:

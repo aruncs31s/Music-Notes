@@ -1,6 +1,5 @@
 ---
 tags:
-  - music
   - malayalam
 album: K.J. Yesudas (Romantic Songs)
 composer: Mohan Sithara
