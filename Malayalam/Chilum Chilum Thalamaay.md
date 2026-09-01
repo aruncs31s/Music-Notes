@@ -1,9 +1,5 @@
 ---
-tags:
-  - recently_added
 avalable_on:
-  - lenovo
-  - mac
   - redmi
 playlists:
   - September 26

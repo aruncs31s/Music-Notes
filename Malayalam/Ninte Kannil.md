@@ -10,5 +10,7 @@ playlists:
 p1_order: "9"
 avalable_on:
   - lenovo
+  - redmi
 rating: "100"
+created_at: 2026-09-01
 ---

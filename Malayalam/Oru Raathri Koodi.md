@@ -9,5 +9,7 @@ avalable_on:
   - mac
   - lenovo
   - vivo
+  - redmi
+created_at: 2026-09-01
 ---
 ****

@@ -6,4 +6,6 @@ playlists:
 p1_order: "13"
 avalable_on:
   - lenovo
+  - redmi
+created_at: 2026-09-01
 ---

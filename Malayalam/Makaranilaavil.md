@@ -9,4 +9,6 @@ singers:
 p1_order: "7"
 avalable_on:
   - lenovo
+  - redmi
+created_at: 2026-09-01
 ---

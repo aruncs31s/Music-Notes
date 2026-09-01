@@ -4,7 +4,6 @@ views:
     filters:
       and:
         - file.tags.contains("music")
-        - file.tags.contains("malayalam")
     order:
       - file.name
       - track

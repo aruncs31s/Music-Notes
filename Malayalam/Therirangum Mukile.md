@@ -1,9 +1,7 @@
 ---
 tags:
-  - recently_added
+  - depression
 avalable_on:
-  - lenovo
-  - mac
   - redmi
 playlists:
   - September 26

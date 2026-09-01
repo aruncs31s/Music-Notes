@@ -15,8 +15,10 @@ avalable_on:
   - mac
   - lenovo
   - vivo
+  - redmi
 album_artist: Berny-Ignatius
 playlists:
   - September 26
 p1_order: "1"
+created_at: 2026-09-01
 ---

@@ -1,9 +1,8 @@
 ---
-tags:
-  - recently_added
+artist:
+  - M.G.Sreekumar, Swetha Mohan
+album: Oru Marubhoomi Kadha
 avalable_on:
-  - lenovo
-  - mac
   - redmi
 playlists:
   - September 26

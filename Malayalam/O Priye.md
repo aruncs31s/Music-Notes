@@ -2,7 +2,7 @@
 tags:
   - malayalam
 track: O Priye
-album: Aniyathipraavu
+album: Aniyathipravu (Original Motion Picture Soundtrack)
 year: "1997"
 rating: "10"
 artist:
@@ -12,9 +12,11 @@ avalable_on:
   - mac
   - lenovo
   - vivo
+  - redmi
 lyricist: S. Ramesan Nair
 playlists:
   - September 26
+created_at: 2026-09-01
 ---
 ഓ പ്രിയേ പ്രിയേ നിനക്കൊരു ഗാനം  
 ഓ പ്രിയേ പ്രാണനിലുണരും ഗാനം  

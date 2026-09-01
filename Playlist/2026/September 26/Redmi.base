@@ -1,0 +1,13 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - '!avalable_on.contains("redmi")'
+    order:
+      - file.name
+      - rating
+      - avalable_on
+      - playlists
+      - created_at
+      - tags

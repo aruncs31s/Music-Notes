@@ -8,16 +8,17 @@ views:
         - playlists.contains("September 26")
         - '!file.name.contains("current")'
     groupBy:
-      property: tags
+      property: avalable_on
       direction: ASC
     order:
       - p1_order
       - file.name
       - tags
       - playlists
+      - avalable_on
       - album
       - rating
-      - avalable_on
+      - artists
     sort:
       - property: p1_order
         direction: ASC
@@ -25,6 +26,7 @@ views:
       note.p1_order: 102
       file.name: 214
       note.album: 171
+      note.avalable_on: 331
   - type: cards
     name: View
     cardSize: 160
