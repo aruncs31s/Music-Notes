@@ -6,7 +6,7 @@ views:
         - '!avalable_on.contains("vivo")'
     order:
       - file.name
-      - rating
       - avalable_on
+      - rating
       - playlists
       - created_at

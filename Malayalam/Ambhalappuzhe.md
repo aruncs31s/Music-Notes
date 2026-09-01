@@ -8,5 +8,6 @@ album: Adwaitham (Original Motion Picture Soundtrack)
 avalable_on:
   - lenovo
   - redmi
+  - vivo
 created_at: 2026-09-01
 ---
