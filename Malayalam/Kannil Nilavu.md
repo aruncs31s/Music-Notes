@@ -11,5 +11,6 @@ p1_order: "14"
 avalable_on:
   - lenovo
   - redmi
+  - vivo
 created_at: 2026-09-01
 ---

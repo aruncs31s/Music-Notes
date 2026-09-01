@@ -7,4 +7,5 @@ album:
 rating:
 avalable_on:
   - lenovo
+created_at: 2026-09-01
 ---
