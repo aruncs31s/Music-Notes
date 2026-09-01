@@ -1,6 +1,7 @@
 ---
 avalable_on:
   - redmi
+  - vivo
 playlists:
   - September 26
 tags:
