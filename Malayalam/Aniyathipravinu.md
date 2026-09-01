@@ -2,6 +2,7 @@
 avalable_on:
   - redmi
   - vivo
+  - lenovo
 playlists:
   - September 26
 album: Aniyathipravu (Original Motion Picture Soundtrack)

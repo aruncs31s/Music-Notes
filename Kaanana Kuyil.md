@@ -7,6 +7,7 @@ album:
 rating:
 avalable_on:
   - redmi
+  - lenovo
 artists:
 year: "2004"
 created_at: 2026-09-01

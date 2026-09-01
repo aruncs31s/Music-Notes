@@ -1,6 +1,7 @@
 ---
 avalable_on:
   - redmi
+  - lenovo
 playlists:
   - September 26
 tags:
