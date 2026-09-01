@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - '!avalable_on.contains("lenovo")'
+    order:
+      - file.name
+      - rating
+      - avalable_on
+      - playlists
+      - created_at
