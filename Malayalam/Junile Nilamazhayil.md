@@ -2,6 +2,7 @@
 avalable_on:
   - redmi
   - lenovo
+  - vivo
 playlists:
   - September 26
 tags:

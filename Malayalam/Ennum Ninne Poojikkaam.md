@@ -6,6 +6,7 @@ playlists:
 avalable_on:
   - lenovo
   - redmi
+  - vivo
 composer: Ouseppachan
 rating: "100"
 created_at: 2026-09-01
