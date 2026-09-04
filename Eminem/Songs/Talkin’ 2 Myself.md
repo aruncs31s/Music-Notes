@@ -6,6 +6,7 @@ tags:
   - eminem
   - songs
 dg-publish: true
+created_at: 2026-09-04T04:45:00
 ---
 *Ayo, before I start this song man*  
 *I just want to thank everybody for being so patient*  
