@@ -6,6 +6,8 @@ avalable_on:
 playlists:
   - September 26
 created_at: 2026-09-04T04:43:00
+tags:
+  - malayalam
 ---
 പൊൻ കസവു ഞൊറിയും
 പുതു നിലാവാ കളഭമുഴിഞ്ഞു

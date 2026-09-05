@@ -3,6 +3,7 @@ tags:
   - malayalam
 playlists:
   - September 26
+  - 20s Malayalam
 year: "2003"
 album_artist: Vidyasagar
 avalable_on:

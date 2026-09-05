@@ -1,3 +1,9 @@
+---
+tags:
+  - malayalam
+links:
+  - https://open.spotify.com/track/4gBQwm2x1YrTmeC45SsIDc
+---
 മിഴിയോരം ഉം..ഉം...
 പനിനീർമണിയോ
 കുളിരോ ഉം..ഉം...

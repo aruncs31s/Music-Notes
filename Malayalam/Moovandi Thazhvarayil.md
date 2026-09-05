@@ -1,8 +1,6 @@
 ---
 avalable_on:
-  - lenovo
-playlists:
-  - September 26
+  - mac
 tags:
   - malayalam
 ---

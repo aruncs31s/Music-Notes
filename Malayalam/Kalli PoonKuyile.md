@@ -1,8 +1,10 @@
 ---
 avalable_on:
   - lenovo
-playlists:
-  - September 26
+  - mac
+  - acer
+  - redmi
+  - vivo
 tags:
   - malayalam
 ---
