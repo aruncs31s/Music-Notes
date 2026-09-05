@@ -1,5 +1,6 @@
 ---
 tags:
+  - malayalam
 avalable_on:
   - lenovo
   - redmi

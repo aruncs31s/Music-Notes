@@ -3,6 +3,7 @@ tags:
   - malayalam
 playlists:
   - September 26
+  - 20s Malayalam
 year: "2001"
 album: Achaneyanenikkishtam  (Original Motion Picture Soundtrack)
 composer: M. G. Sreekumar

@@ -3,6 +3,7 @@ playlists:
   - September 26
 p1_order:
 tags:
+  - malayalam
 album:
 rating:
 avalable_on:
