@@ -1,6 +1,7 @@
 ---
 avalable_on:
   - vivo
+  - mac
 playlists:
   - September 26
 versions:

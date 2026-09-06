@@ -5,6 +5,7 @@ avalable_on:
   - redmi
   - vivo
   - lenovo
+  - mac
 created_at: 2026-09-01
 tags:
   - malayalam

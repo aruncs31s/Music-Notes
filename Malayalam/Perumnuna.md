@@ -8,5 +8,6 @@ album:
 rating:
 avalable_on:
   - lenovo
+  - mac
 created_at: 2026-09-01
 ---

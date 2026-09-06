@@ -4,6 +4,7 @@ playlists:
 p1_order: "10"
 avalable_on:
   - lenovo
+  - mac
 tags:
   - malayalam
   - romantic

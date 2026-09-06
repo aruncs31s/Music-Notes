@@ -7,6 +7,7 @@ avalable_on:
   - lenovo
   - redmi
   - vivo
+  - mac
 composer: Ouseppachan
 rating: "100"
 created_at: 2026-09-01

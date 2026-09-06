@@ -9,6 +9,7 @@ avalable_on:
   - lenovo
   - redmi
   - vivo
+  - mac
 rating: "100"
 created_at: 2026-09-01
 ---
