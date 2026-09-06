@@ -2,7 +2,6 @@
 id: Music
 aliases: []
 tags:
-  - music
 dg-publish: true
 created_at: 2026-09-04T04:46:00
 ---
