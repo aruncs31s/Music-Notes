@@ -6,4 +6,6 @@ avalable_on:
 created_at: 2026-09-01
 playlists:
   - September 26
+tags:
+  - malayalam
 ---

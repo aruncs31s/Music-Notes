@@ -1,8 +1,10 @@
 ---
 playlists:
   - September 26
+  - 20s Malayalam
 p1_order:
 tags:
+  - malayalam
 album:
 rating:
 avalable_on:

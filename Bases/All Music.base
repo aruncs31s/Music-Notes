@@ -6,8 +6,12 @@ views:
         - '!file.name.endsWith(".base")'
     order:
       - file.name
+      - links
+      - tags
       - created_at
       - file.ctime
     sort:
+      - property: file.ctime
+        direction: ASC
       - property: created_at
         direction: ASC

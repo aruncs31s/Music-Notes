@@ -1,5 +1,6 @@
 ---
 tags:
+  - thamil
 avalable_on:
   - lenovo
   - redmi

@@ -6,4 +6,6 @@ avalable_on:
   - redmi
 rating: "100"
 created_at: 2026-09-01
+tags:
+  - malayalam
 ---

@@ -1,6 +1,7 @@
 ---
 tags:
   - recently_added
+  - malayalam
 avalable_on:
   - lenovo
   - mac

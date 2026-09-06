@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - playlists.contains("90s Malayalam")
+    order:
+      - file.name
+      - 90s_malayalam_ordeer
+      - avalable_on
+    columnSize:
+      file.name: 194
