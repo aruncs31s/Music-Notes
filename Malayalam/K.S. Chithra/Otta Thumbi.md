@@ -9,4 +9,6 @@ singers:
 created_at: 2026-09-04T04:46:00
 tags:
   - malayalam
+p1_order: "32"
+rating: 80
 ---

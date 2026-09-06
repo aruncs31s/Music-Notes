@@ -4,7 +4,7 @@ tags:
 track: "1"
 album: Agnidevan (Orginal Motion Picture Soundtrack)
 year: "1995"
-rating: "10"
+rating: "90"
 artist: M. G. Sreekumar
 composer: M. G. Radhakrishnan
 avalable_on:
@@ -13,6 +13,6 @@ avalable_on:
   - redmi
 playlists:
   - September 26
-p1_order: "3"
+p1_order: "39"
 created_at: 2026-09-01
 ---

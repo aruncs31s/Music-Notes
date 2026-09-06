@@ -7,7 +7,7 @@ year: "1992"
 track: "1"
 tags:
   - malayalam
-rating: "10"
+rating: "95"
 image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4BuQNBaOcCorggdDm1NvXCnYgeDKBLZ_tM-i_n2_vBA&s=10
 composer: AR Rahman
 lyricist: Bichu Thirumala
@@ -21,6 +21,6 @@ avalable_on:
   - redmi
 playlists:
   - September 26
-p1_order: "4"
+p1_order: "7"
 created_at: 2026-09-04T04:46:00
 ---

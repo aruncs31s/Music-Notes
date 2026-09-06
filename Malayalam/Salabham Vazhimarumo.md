@@ -16,4 +16,6 @@ artists:
 created_at: 2026-09-04T04:45:00
 avalable_on:
   - mac
+p1_order: "51"
+rating: "80"
 ---

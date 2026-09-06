@@ -6,4 +6,6 @@ playlists:
   - September 26
 tags:
   - malayalam
+p1_order: "48"
+rating: "80"
 ---

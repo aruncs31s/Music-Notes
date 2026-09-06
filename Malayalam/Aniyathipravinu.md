@@ -10,4 +10,6 @@ album: Aniyathipravu (Original Motion Picture Soundtrack)
 created_at: 2026-09-01
 tags:
   - malayalam
+p1_order: "36"
+rating: 70
 ---

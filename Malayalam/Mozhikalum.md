@@ -8,4 +8,6 @@ playlists:
 created_at: 2026-09-01
 tags:
   - malayalam
+p1_order: "37"
+rating: 90
 ---

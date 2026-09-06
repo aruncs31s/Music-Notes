@@ -5,7 +5,6 @@ avalable_on:
   - lenovo
   - mac
 playlists:
-  - September 26
 singers:
   - K. S. Chithra
   - M G Sreekumar

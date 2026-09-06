@@ -15,4 +15,6 @@ artists:
 album: Indraprastham (Original Motion Picture Soundtrack)
 tags:
   - malayalam
+p1_order: "68"
+rating: "80"
 ---

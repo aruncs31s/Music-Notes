@@ -1,0 +1,21 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - playlists.contains("September 26")
+    order:
+      - rating
+      - p1_order
+      - file.name
+      - playlists
+      - tags
+      - file.ctime
+      - file.mtime
+      - pl
+      - avalable_on
+    sort:
+      - property: rating
+        direction: DESC
+      - property: p1_order
+        direction: ASC

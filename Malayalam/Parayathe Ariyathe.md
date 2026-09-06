@@ -2,10 +2,10 @@
 tags:
   - malayalam
 status: true
-rating: "10"
+rating: "90"
 playlists:
   - September 26
-p1_order: "5"
+p1_order: "44"
 avalable_on:
   - lenovo
   - redmi

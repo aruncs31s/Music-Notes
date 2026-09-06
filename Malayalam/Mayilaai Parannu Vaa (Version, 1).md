@@ -8,7 +8,7 @@ tags:
 track: "1"
 album: Mayilppeelikkavu (Original Motion Picture Soundtrack)
 year:
-rating: "10"
+rating: "99"
 artists:
   - Berny-Ignatius
   -  K.J. Yesudas
@@ -23,7 +23,7 @@ album_artist: Berny-Ignatius
 playlists:
   - September 26
   - Depressed
-p1_order: "1"
+p1_order: "6"
 created_at: 2026-09-01
 ---
 മയിലായ് പറന്നു വാ  
