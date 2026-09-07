@@ -11,8 +11,10 @@ avalable_on:
   - lenovo
   - redmi
   - vivo
+  - mac
 created_at: 2026-09-01
 album: Gramaphone
+p1_order: "13"
 ---
 - [[Paikkurumbiye]]
 - 

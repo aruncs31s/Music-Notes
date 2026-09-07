@@ -2,13 +2,14 @@
 tags:
   - malayalam
 status: true
-rating: "10"
+rating: "90"
 playlists:
   - September 26
-p1_order: "5"
+p1_order: "44"
 avalable_on:
   - lenovo
   - redmi
+  - mac
 created_at: 2026-09-01
 ---
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1PhS0Htm6K7b8UVgVMoEnM?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

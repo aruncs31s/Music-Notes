@@ -2,9 +2,8 @@
 id: Talkin_2_Myself
 aliases: []
 tags:
-  - music
   - eminem
-  - songs
+  - english
 dg-publish: true
 created_at: 2026-09-04T04:45:00
 ---

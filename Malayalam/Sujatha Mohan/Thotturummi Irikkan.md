@@ -1,6 +1,7 @@
 ---
 avalable_on:
   - vivo
+  - mac
 singers:
   - Sujatha Mohan
 artists:

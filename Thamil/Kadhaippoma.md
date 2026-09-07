@@ -1,6 +1,5 @@
 ---
 tags:
-  - music
   - thamil
 artist:
   - Leon James, Sid Sriram

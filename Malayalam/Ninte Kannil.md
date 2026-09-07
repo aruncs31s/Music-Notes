@@ -7,10 +7,11 @@ singers:
   - K. J. Yesudas
 playlists:
   - September 26
-p1_order: "9"
+p1_order: "40"
 avalable_on:
   - lenovo
   - redmi
+  - mac
 rating: "100"
 created_at: 2026-09-01
 ---

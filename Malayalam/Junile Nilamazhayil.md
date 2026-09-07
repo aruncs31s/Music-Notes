@@ -3,6 +3,7 @@ avalable_on:
   - redmi
   - lenovo
   - vivo
+  - mac
 playlists:
   - September 26
 tags:
@@ -12,4 +13,5 @@ artists:
   -  K.J. Yesudas
 rating: "100"
 created_at: 2026-09-01
+p1_order: "17"
 ---

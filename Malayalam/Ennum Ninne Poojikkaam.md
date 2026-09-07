@@ -7,10 +7,12 @@ avalable_on:
   - lenovo
   - redmi
   - vivo
+  - mac
 composer: Ouseppachan
 rating: "100"
 created_at: 2026-09-01
 album: Aniyathipravu (Original Motion Picture Soundtrack)
+p1_order: "14"
 ---
 ![](https://open.spotify.com/track/4pbhORinWqdVcLOwQC7LMM?si=AevV_f7MQpO2TTKdqB2vdQ&utm_source=copy-link)
 
