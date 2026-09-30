@@ -10,7 +10,10 @@ views:
       - links
       - tags
       - file.ctime
+      - file.mtime
     sort:
+      - property: file.mtime
+        direction: DESC
       - property: created_at
         direction: DESC
       - property: file.ctime
