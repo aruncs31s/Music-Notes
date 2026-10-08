@@ -8,6 +8,9 @@ track: "3"
 tags:
   - malayalam
   - depression
+  - legato
+  - classical
+  - melodic
 rating: "100"
 image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPXGYqaoiWJqpqWkNmV4msmL8289i4oCsyMaBg4Qt2ch_djOsO4DT_JcFdfJO28bMX6gKeo-ekvPPuBQO4v66idIHa5e6ivvl3KrDhQ0pk&s=10
 avalable_on:
@@ -17,6 +20,7 @@ avalable_on:
   - redmi
 playlists:
   - September 26
+  - Legato Classical Melodic
 p1_order: "2"
 created_at: 2026-09-04T04:46:00
 ---

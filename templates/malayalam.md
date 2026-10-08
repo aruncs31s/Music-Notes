@@ -2,7 +2,9 @@
 tags:
   - malayalam
 avalable_on:
-  - mac
-created_at: {{date}}
+  - redmi
+created_at: <% tp.date.now("YYYY-MM-DD HH:mm:ss") %>
+status:
+single_copy:
 ---
 

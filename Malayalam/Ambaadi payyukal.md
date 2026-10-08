@@ -1,5 +1,5 @@
 ---
-rating: "70"
+rating: 70
 avalable_on:
   - redmi
   - vivo

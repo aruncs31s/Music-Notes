@@ -11,5 +11,5 @@ avalable_on:
   - vivo
   - mac
 created_at: 2026-09-01
-rating: "100"
+rating: 100
 ---

@@ -1,6 +1,9 @@
 ---
 tags:
   - malayalam
+  - legato
+  - classical
+  - melodic
 track: "1"
 album: Agnidevan (Orginal Motion Picture Soundtrack)
 year: "1995"
@@ -13,6 +16,7 @@ avalable_on:
   - redmi
 playlists:
   - September 26
+  - Legato Classical Melodic
 p1_order: "39"
 created_at: 2026-09-01
 ---
