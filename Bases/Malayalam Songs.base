@@ -1,0 +1,14 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.tags.contains("malayalam")
+    order:
+      - rating
+      - file.name
+      - avalable_on
+      - created_at
+    sort:
+      - property: created_at
+        direction: DESC

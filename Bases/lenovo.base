@@ -1,0 +1,14 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - '!avalable_on.contains("lenovo")'
+        - avalable_on == "redmi"
+    order:
+      - file.name
+      - avalable_on
+      - created_at
+      - rating
+      - playlists
+      - singers
