@@ -1,14 +1,20 @@
 ---
 avalable_on:
-  - vivo
-  - redmi
-  - mac
+- vivo
+- redmi
+- mac
+- acer
 playlists:
-  - September 26
+- September 26
 created_at: 2026-09-02
 source_creation: YouTube music
 tags:
-  - malayalam
-p1_order: "65"
-rating: "66"
+- malayalam
+p1_order: '65'
+rating: '66'
+available_on:
+- vivo
+- redmi
+- mac
+- acer
 ---

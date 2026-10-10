@@ -1,9 +1,13 @@
 ---
 avalable_on:
-  - mac
+- mac
+- acer
 playlists:
-  - Evergreen Malayalam
+- Evergreen Malayalam
 tags:
-  - malayalam
-created_at: 2026-09-27T10:03:00
+- malayalam
+created_at: 2026-09-27 10:03:00
+available_on:
+- mac
+- acer
 ---

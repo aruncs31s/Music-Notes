@@ -1,15 +1,19 @@
 ---
 tags:
-  - malayalam
-  - cantabile
-  - classical
-  - melodic
-  - yearning
+- malayalam
+- cantabile
+- classical
+- melodic
+- yearning
 avalable_on:
-  - redmi
+- redmi
+- acer
 created_at: 2026-10-09 12:34:38
-status:
-single_copy:
+status: null
+single_copy: null
+available_on:
+- redmi
+- acer
 ---
 
 Mandhara cheppundo

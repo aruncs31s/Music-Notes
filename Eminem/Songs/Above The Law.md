@@ -2,11 +2,19 @@
 id: Above_The_Law
 aliases: []
 tags:
-  - eminem
-  - english
-  - rap
+- eminem
+- english
+- rap
+- flac
 dg-publish: true
-created_at: 2026-09-04T04:46:00
+created_at: 2026-09-04 04:46:00
+avalable_on:
+- acer
+available_on:
+- acer
+album: 'Hell: The Sequel (Deluxe)'
+singers:
+- Bad Meets Evil
 ---
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5oEgPvhTZ4CFjeuuLfmMsI?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

@@ -1,13 +1,18 @@
 ---
 avalable_on:
-  - vivo
-  - mac
+- vivo
+- mac
+- acer
 singers:
-  - Sujatha Mohan
+- Sujatha Mohan
 artists:
-  - Vidyasagar
+- Vidyasagar
 album: Meeshamadhavan
-created_at: 2026-09-04T04:45:00
+created_at: 2026-09-04 04:45:00
 tags:
-  - malayalam
+- malayalam
+available_on:
+- vivo
+- mac
+- acer
 ---

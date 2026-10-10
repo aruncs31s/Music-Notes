@@ -2,10 +2,19 @@
 id: Talkin_2_Myself
 aliases: []
 tags:
-  - eminem
-  - english
+- eminem
+- english
+- flac
+- rap
 dg-publish: true
-created_at: 2026-09-04T04:45:00
+created_at: 2026-09-04 04:45:00
+avalable_on:
+- acer
+available_on:
+- acer
+album: Recovery (Deluxe Edition)
+singers:
+- Eminem
 ---
 *Ayo, before I start this song man*  
 *I just want to thank everybody for being so patient*  

@@ -1,14 +1,18 @@
 ---
 tags:
-  - malayalam
+- malayalam
 avalable_on:
-  - redmi
+- redmi
+- acer
 created_at: 2026-10-03 12:18:42
-status:
-single_copy:
+status: null
+single_copy: null
 singers:
-  - Shweta Mohan
+- Shweta Mohan
 playlists:
-  - Romantic Duets
+- Romantic Duets
+available_on:
+- redmi
+- acer
 ---
 

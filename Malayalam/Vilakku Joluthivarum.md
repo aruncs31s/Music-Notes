@@ -1,18 +1,22 @@
 ---
 tags:
-  - malayalam
-  - romantic
-  - duet
+- malayalam
+- romantic
+- duet
 avalable_on:
-  - redmi
+- redmi
+- acer
 created_at: 2026-10-03 12:13:29
-status:
-single_copy:
+status: null
+single_copy: null
 album: Kilichundan Maambazham
 singers:
-  - M G Sreekumar
-  - Sujatha Mohan
+- M G Sreekumar
+- Sujatha Mohan
 playlists:
-  - Romantic Duets
+- Romantic Duets
+available_on:
+- redmi
+- acer
 ---
 

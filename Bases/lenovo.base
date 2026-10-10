@@ -4,7 +4,6 @@ views:
     filters:
       and:
         - '!avalable_on.contains("lenovo")'
-        - avalable_on == "redmi"
     order:
       - file.name
       - avalable_on
@@ -12,3 +11,5 @@ views:
       - rating
       - playlists
       - singers
+    columnSize:
+      file.name: 478

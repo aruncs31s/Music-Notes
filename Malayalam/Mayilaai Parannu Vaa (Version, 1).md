@@ -1,30 +1,43 @@
 ---
 tags:
-  - malayalam
-  - romantic
-  - feel_good
-  - depression
-  - fem_vocals
-track: "1"
+- malayalam
+- romantic
+- feel_good
+- depression
+- fem_vocals
+- mp3
+- soundtrack
+track: '1'
 album: Mayilppeelikkavu (Original Motion Picture Soundtrack)
-year:
-rating: "99"
+year: null
+rating: '99'
 artists:
-  - Berny-Ignatius
-  -  K.J. Yesudas
-  -  K.S. Chithra
-composer:
+- Berny-Ignatius
+-  K.J. Yesudas
+-  K.S. Chithra
+composer: null
 avalable_on:
-  - mac
-  - lenovo
-  - vivo
-  - redmi
+- mac
+- lenovo
+- vivo
+- redmi
+- acer
 album_artist: Berny-Ignatius
 playlists:
-  - September 26
-  - Depressed
-p1_order: "6"
+- September 26
+- Depressed
+p1_order: '6'
 created_at: 2026-09-01
+available_on:
+- mac
+- lenovo
+- vivo
+- redmi
+- acer
+singers:
+- Berny-Ignatius
+- K.J. Yesudas
+- K.S. Chithra
 ---
 മയിലായ് പറന്നു വാ  
 മഴവില്ലു തോൽക്കുമെൻ അഴകേ  

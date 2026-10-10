@@ -1,16 +1,27 @@
 ---
 album: Jocker
 avalable_on:
-  - vivo
-  - redmi
-  - mac
+- vivo
+- redmi
+- mac
+- acer
 playlists:
-  - September 26
-created_at: 2026-09-04T04:43:00
+- September 26
+created_at: 2026-09-04 04:43:00
 tags:
-  - malayalam
-p1_order: "47"
-rating: "90"
+- malayalam
+- mp3
+- soundtrack
+p1_order: '47'
+rating: '90'
+available_on:
+- vivo
+- redmi
+- mac
+- acer
+singers:
+- Mohan Sithara
+- K.S. Chithra
 ---
 പൊൻ കസവു ഞൊറിയും
 പുതു നിലാവാ കളഭമുഴിഞ്ഞു

@@ -1,10 +1,13 @@
 ---
 tags:
-  - malayalam
+- malayalam
 avalable_on:
+- acer
 created_at: 2026-10-03 13:38:17
-status:
-single_copy:
-lyrics_available:
+status: null
+single_copy: null
+lyrics_available: null
+available_on:
+- acer
 ---
 

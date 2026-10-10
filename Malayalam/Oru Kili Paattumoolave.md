@@ -1,13 +1,17 @@
 ---
 tags:
-  - malayalam
+- malayalam
 avalable_on:
-  - redmi
+- redmi
+- acer
 created_at: 2026-10-03 12:08:53
-status:
-single_copy:
+status: null
+single_copy: null
 singers:
-  - K. J. Yesudas
-  - K. S. Chithra
+- K. J. Yesudas
+- K. S. Chithra
+available_on:
+- redmi
+- acer
 ---
 

@@ -1,11 +1,15 @@
 ---
 tags:
-  - malayalam
+- malayalam
 avalable_on:
-  - redmi
+- redmi
+- acer
 created_at: 2026-10-03 13:06:42
-status:
-single_copy:
+status: null
+single_copy: null
 lyrics_available: true
+available_on:
+- redmi
+- acer
 ---
 

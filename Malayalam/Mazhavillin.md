@@ -1,14 +1,18 @@
 ---
 tags:
-  - malayalam
-  - romantic
-  - duet
+- malayalam
+- romantic
+- duet
 avalable_on:
-  - redmi
+- redmi
+- acer
 created_at: 2026-10-03 12:34:19
-status:
-single_copy:
+status: null
+single_copy: null
 playlists:
-  - Romantic Duets
+- Romantic Duets
+available_on:
+- redmi
+- acer
 ---
 

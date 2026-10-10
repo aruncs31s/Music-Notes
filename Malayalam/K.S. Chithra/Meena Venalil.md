@@ -3,26 +3,39 @@ title: Meena Venalil
 artist: S.P. Venkatesh/M.G. Sreekumar/K.S. Chithra
 album: Kilukkam (Original Motion Picture Soundtrack)
 album artist: S.P. Venkatesh/Papanasam Sivan
-year: "1991"
-track: "3"
+year: '1991'
+track: '3'
 tags:
-  - malayalam
-  - depression
-  - legato
-  - classical
-  - melodic
-rating: "100"
+- malayalam
+- depression
+- legato
+- classical
+- melodic
+- mp3
+- soundtrack
+rating: '100'
 image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPXGYqaoiWJqpqWkNmV4msmL8289i4oCsyMaBg4Qt2ch_djOsO4DT_JcFdfJO28bMX6gKeo-ekvPPuBQO4v66idIHa5e6ivvl3KrDhQ0pk&s=10
 avalable_on:
-  - mac
-  - lenovo
-  - vivo
-  - redmi
+- mac
+- lenovo
+- vivo
+- redmi
+- acer
 playlists:
-  - September 26
-  - Legato Classical Melodic
-p1_order: "2"
-created_at: 2026-09-04T04:46:00
+- September 26
+- Legato Classical Melodic
+p1_order: '2'
+created_at: 2026-09-04 04:46:00
+available_on:
+- mac
+- lenovo
+- vivo
+- redmi
+- acer
+singers:
+- S.P. Venkatesh
+- M.G. Sreekumar
+- K.S. Chithra
 ---
 
 

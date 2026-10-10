@@ -2,25 +2,34 @@
 title: Kune Kune
 artist: K J Yesudas, Sujatha Mohan
 album: Yodha
-album artist:
-year: "1992"
-track: "1"
+album artist: null
+year: '1992'
+track: '1'
 tags:
-  - malayalam
-rating: "95"
+- malayalam
+- mp3
+- asian
+rating: '95'
 image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4BuQNBaOcCorggdDm1NvXCnYgeDKBLZ_tM-i_n2_vBA&s=10
 composer: AR Rahman
 lyricist: Bichu Thirumala
 singers:
-  - K. J. Yesudas
-  - Sujatha Mohan
+- K. J. Yesudas
+- Sujatha Mohan
 avalable_on:
-  - mac
-  - lenovo
-  - vivo
-  - redmi
+- mac
+- lenovo
+- vivo
+- redmi
+- acer
 playlists:
-  - September 26
-p1_order: "7"
-created_at: 2026-09-04T04:46:00
+- September 26
+p1_order: '7'
+created_at: 2026-09-04 04:46:00
+available_on:
+- mac
+- lenovo
+- vivo
+- redmi
+- acer
 ---

@@ -1,16 +1,27 @@
 ---
 avalable_on:
-  - vivo
-  - mac
+- vivo
+- mac
+- acer
 playlists:
-  - September 26
+- September 26
 versions:
-  - v1
-  - v2
-  - v3
-created_at: 2026-09-04T04:46:00
+- v1
+- v2
+- v3
+created_at: 2026-09-04 04:46:00
 tags:
-  - malayalam
-p1_order: "5"
-rating: "98"
+- malayalam
+- mp3
+- soundtrack
+p1_order: '5'
+rating: '98'
+available_on:
+- vivo
+- mac
+- acer
+album: No.1 Snehatheeram Bangalore North (Original Motion Picture Soundtrack)
+singers:
+- Jerry Amaldev
+- K.J. Yesudas
 ---

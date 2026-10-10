@@ -1,10 +1,20 @@
 ---
 playlists:
-  - 20s Malayalam
+- 20s Malayalam
 avalable_on:
-  - mac
+- mac
+- acer
 year: 2001
 tags:
-  - malayalam
-created_at: 2026-09-27T10:04:00
+- malayalam
+- mp3
+- asian
+created_at: 2026-09-27 10:04:00
+available_on:
+- mac
+- acer
+album: Dosth (Original Motion Picture Soundtrack)
+singers:
+- Vidyasagar
+- Sreenivas
 ---
