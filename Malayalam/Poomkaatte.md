@@ -1,12 +1,20 @@
 ---
 tags:
-  - malayalam
-  - evergreen
-avalable_on:
-  - mac
+- malayalam
+- evergreen
+- mp3
 playlists:
-  - September 26
-p1_order: "58"
-rating: "87"
-created_at: 2026-09-27T10:04:00
+- September 26
+p1_order: '58'
+rating: '87'
+created_at: 2026-09-27 10:04:00
+available_on:
+- mac
+- acer
+- vivo
+album: Shyama (Original Motion Picture Soundtrack)
+singers:
+- Raghu Kumar
+- K. S. Chithra
+- Unni Menon
 ---

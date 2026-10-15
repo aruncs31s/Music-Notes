@@ -3,11 +3,11 @@ views:
     name: Table
     filters:
       and:
-        - '!avalable_on.contains("vivo")'
+        - '!available_on.contains("vivo")'
     order:
       - file.name
       - rating
-      - avalable_on
+      - available_on
       - tags
     sort:
       - property: rating

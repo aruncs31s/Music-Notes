@@ -1,0 +1,15 @@
+---
+tags:
+- english
+- mp3
+available_on:
+- acer
+- vivo
+created_at: '2026-10-10 11:13:56'
+album: Diamond Necklace
+singers:
+- Najim Arshad
+- Abhirami Ajai
+year: 2014
+---
+

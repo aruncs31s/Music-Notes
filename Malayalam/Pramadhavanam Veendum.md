@@ -1,13 +1,17 @@
 ---
 tags:
-  - legato
-  - classical
-  - melodic
-avalable_on:
-  - lenovo
+- malayalam
+- legato
+- classical
+- melodic
 playlists:
-  - Legato Classical Melodic
+- Legato Classical Melodic
 album: His Highness Abdullah
 singers:
-  - K. J. Yesudas
+- K. J. Yesudas
+available_on:
+- lenovo
+- acer
+- vivo
+created_at: '2026-10-10 11:15:13'
 ---

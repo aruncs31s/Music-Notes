@@ -1,13 +1,14 @@
 ---
 tags:
-  - malayalam
-avalable_on:
-  - redmi
+- malayalam
 created_at: 2026-10-03 12:10:37
-status:
-single_copy:
+status: null
+single_copy: null
 lyrics_available: true
 singers:
-  - K. S. Chithra
+- K. S. Chithra
 album: Ananthabhadram
+available_on:
+- redmi
+- acer
 ---

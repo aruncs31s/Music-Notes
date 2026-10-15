@@ -1,8 +1,17 @@
 ---
 tags:
-  - malayalam
+- malayalam
+- mp3
+- soundtrack
 created_at: 2026-09-06
-avalable_on:
-  - mac
+available_on:
+- mac
+- acer
+- vivo
+album: Joker (Original Motion Picture Soundtrack)
+singers:
+- Mohan Sithara
+- K.J. Yesudas
+- K.S. Chithra
 ---
 

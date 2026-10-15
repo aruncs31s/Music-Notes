@@ -1,15 +1,26 @@
 ---
 tags:
-  - malayalam
-  - cantabile
-  - classical
-  - melodic
-  - yearning
-avalable_on:
-  - redmi
+- malayalam
+- cantabile
+- classical
+- melodic
+- yearning
+- asian
+- mp3
 created_at: 2026-10-09 12:34:38
-status:
-single_copy:
+status: null
+single_copy: null
+available_on:
+- acer
+- redmi
+- vivo
+album: Evergreen Combo (Mohanlal - M.G. Sreekumar Superhit Songs Vol, 01)
+singers:
+- Johnson
+- M.G. Sreekumar
+- K.S. Chithra
+- Poovachal Khadhar
+year: 2026
 ---
 
 Mandhara cheppundo

@@ -7,7 +7,7 @@ views:
     order:
       - rating
       - file.name
-      - avalable_on
+      - available_on
       - created_at
     sort:
       - property: created_at

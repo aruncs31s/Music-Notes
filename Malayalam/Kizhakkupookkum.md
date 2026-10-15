@@ -1,7 +1,13 @@
 ---
 tags:
-  - malayalam
-avalable_on:
-  - mac
-created_at: 2026-09-27T10:04:00
+- malayalam
+- m4a
+created_at: 2026-09-27 10:04:00
+available_on:
+- mac
+- acer
+- vivo
+album: Gopi Sundar
+singers:
+- Gopi Sundar
 ---

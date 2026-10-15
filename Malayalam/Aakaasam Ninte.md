@@ -1,0 +1,16 @@
+---
+tags:
+- malayalam
+- mp3
+available_on:
+- acer
+- vivo
+created_at: '2026-10-10 11:13:59'
+album: Praja
+singers:
+- M.G. Radhakrishnan
+- M.G. Sreekumar
+- Sujatha Mohan
+year: 2001
+---
+

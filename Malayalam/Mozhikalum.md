@@ -1,13 +1,15 @@
 ---
-avalable_on:
-  - redmi
-  - lenovo
-  - mac
 playlists:
-  - September 26
+- September 26
 created_at: 2026-09-01
 tags:
-  - malayalam
-p1_order: "37"
+- malayalam
+p1_order: '37'
 rating: 90
+available_on:
+- redmi
+- lenovo
+- mac
+- acer
+- vivo
 ---

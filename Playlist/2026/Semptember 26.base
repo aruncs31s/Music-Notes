@@ -13,7 +13,7 @@ views:
       - file.ctime
       - file.mtime
       - pl
-      - avalable_on
+      - available_on
     sort:
       - property: rating
         direction: DESC

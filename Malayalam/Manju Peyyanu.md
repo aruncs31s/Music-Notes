@@ -1,12 +1,19 @@
 ---
 tags:
-  - malayalam
-avalable_on:
-  - mac
+- malayalam
+- mp3
 created_at: 2026-09-06
 playlists:
-  - September 26
-p1_order: "3"
-rating: "85"
+- September 26
+p1_order: '3'
+rating: '85'
+available_on:
+- mac
+- acer
+- vivo
+album: Chandranudikkunnadhikkil (Original Motion Picture Soundtrack)
+singers:
+- Vidyasagar
+- Sujatha
 ---
 

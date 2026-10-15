@@ -1,14 +1,18 @@
 ---
 tags:
-  - legato
-  - classical
-  - melodic
-avalable_on:
-  - lenovo
+- malayalam
+- legato
+- classical
+- melodic
 playlists:
-  - Legato Classical Melodic
+- Legato Classical Melodic
 album: Amaram
 singers:
-  - K. J. Yesudas
-  - K. S. Chithra
+- K. J. Yesudas
+- K. S. Chithra
+available_on:
+- lenovo
+- acer
+- vivo
+created_at: '2026-10-10 11:15:13'
 ---

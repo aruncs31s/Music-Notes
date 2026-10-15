@@ -7,6 +7,6 @@ views:
     order:
       - file.name
       - 90s_malayalam_ordeer
-      - avalable_on
+      - available_on
     columnSize:
       file.name: 194

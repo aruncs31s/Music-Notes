@@ -1,13 +1,21 @@
 ---
-avalable_on:
-  - vivo
-  - mac
 playlists:
-  - September 26
+- September 26
 album: Chithram
-created_at: 2026-09-04T04:46:00
+created_at: 2026-09-04 04:46:00
 tags:
-  - malayalam
-p1_order: "30"
+- malayalam
+- asian
+- mp3
+p1_order: '30'
 rating: 80
+available_on:
+- acer
+- mac
+- vivo
+singers:
+- Kannur Rajan
+- M.G. Sreekumar
+- Sujatha Mohan
+year: 2026
 ---

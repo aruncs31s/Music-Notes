@@ -1,21 +1,29 @@
 ---
 tags:
-  - romantic
-  - duet
-  - depression
+- romantic
+- duet
+- depression
+- malayalam
+- mp3
+- asian
 playlists:
-  - September 26
-avalable_on:
-  - lenovo
-  - redmi
-  - vivo
-  - mac
+- September 26
 composer: Ouseppachan
 rating: 100
 created_at: 2026-09-01
 album: Aniyathipravu (Original Motion Picture Soundtrack)
-p1_order: "14"
+p1_order: '14'
 lyrics_available: true
+available_on:
+- lenovo
+- redmi
+- vivo
+- mac
+- acer
+singers:
+- Ouseppachan
+- K.J. Yesudas
+- Sujatha Mohan
 ---
 
 

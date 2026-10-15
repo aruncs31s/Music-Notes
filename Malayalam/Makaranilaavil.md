@@ -1,19 +1,26 @@
 ---
 tags:
-  - malayalam
-  - romantic
+- malayalam
+- romantic
+- m4a
+- music
+- mp3
+- asian
 playlists:
-  - September 26
+- September 26
 singers:
-  - K. J. Yesudas
-  - Mohan Sithara
-p1_order: "1"
-avalable_on:
-  - lenovo
-  - redmi
-  - mac
+- K. J. Yesudas
+- Mohan Sithara
+p1_order: '1'
 created_at: 2026-09-01
-rating: "100"
+rating: '100'
+available_on:
+- lenovo
+- redmi
+- mac
+- acer
+- vivo
+album: Snehithan
 ---
 - [[Mayilaai Parannu Vaa (Version, 1)]]
 

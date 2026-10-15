@@ -1,5 +1,17 @@
 ---
-created_at: 2026-09-04T04:46:00
+created_at: 2026-09-04 04:46:00
 tags:
-  - malayalam
+- malayalam
+- english
+- mp3
+- asian
+available_on:
+- acer
+- vivo
+album: June (Original Motion Picture Soundtrack)
+singers:
+- Ifthi
+- Vinayak Sasikumar
+- Sooraj Santhosh
+- Anne Amie
 ---

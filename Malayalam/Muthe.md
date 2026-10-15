@@ -1,11 +1,15 @@
 ---
 tags:
-  - malayalam
-avalable_on:
-  - redmi
+- malayalam
+- english
+- mp3
 created_at: 2026-10-03 09:58:33
-status:
-single_copy:
+status: null
+single_copy: null
 lyrics_available: true
 rating: 60
+available_on:
+- redmi
+- acer
+- vivo
 ---

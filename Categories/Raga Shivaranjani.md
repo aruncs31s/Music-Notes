@@ -1,6 +1,8 @@
 ---
 arohanam: S R₂ G₂ P D₂ S
 avarohanam: S D₂ P G₂ R₂ S
+available_on:
+- vivo
 ---
 
 **Raga Shivaranjani (ശിവരഞ്ജിനി)** is a very expressive raga in Indian classical music, especially known for creating a feeling of **pathos, longing, tenderness, and melancholy**.

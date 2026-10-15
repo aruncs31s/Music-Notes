@@ -1,8 +1,16 @@
 ---
 tags:
-  - malayalam
-avalable_on:
-  - mac
+- malayalam
+- english
+- mp3
+- classical
 created_at: 2026-09-06
+available_on:
+- mac
+- acer
+- vivo
+album: Mayaanadhi (Original Motion Picture Soundtrack)
+singers:
+- Shahabaz Aman
 ---
 

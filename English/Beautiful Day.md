@@ -1,0 +1,15 @@
+---
+tags:
+- english
+- rock
+- mp3
+available_on:
+- acer
+- vivo
+created_at: '2026-10-10 11:13:54'
+album: U218 Singles (Deluxe Version)
+singers:
+- U2
+year: 2006
+---
+

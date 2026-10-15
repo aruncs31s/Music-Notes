@@ -1,12 +1,18 @@
 ---
 year: 2002
-avalable_on:
-  - vivo
-  - lenovo
-  - redmi
-  - mac
 album: Gramaphone
 tags:
-  - malayalam
-created_at: 2026-09-06T01:21:00
+- malayalam
+- mp3
+created_at: 2026-09-06 01:21:00
+available_on:
+- vivo
+- lenovo
+- redmi
+- mac
+- acer
+singers:
+- Vidyasagar
+- K. J. Yesudas
+- Sujatha
 ---

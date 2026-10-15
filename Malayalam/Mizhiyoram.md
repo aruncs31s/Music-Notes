@@ -1,9 +1,17 @@
 ---
 tags:
-  - malayalam
+- malayalam
+- mp3
+- asian
 links:
-  - https://open.spotify.com/track/4gBQwm2x1YrTmeC45SsIDc
-created_at: 2026-09-27T10:04:00
+- https://open.spotify.com/track/4gBQwm2x1YrTmeC45SsIDc
+created_at: 2026-09-27 10:04:00
+available_on:
+- acer
+- vivo
+album: Manjil Virinja Pookkal (Original Motion Picture Soundtrack)
+singers:
+- S. Janaki
 ---
 മിഴിയോരം ഉം..ഉം...
 പനിനീർമണിയോ

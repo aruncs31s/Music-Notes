@@ -1,13 +1,14 @@
 ---
 tags:
-  - malayalam
+- malayalam
 singers:
-  - Sujatha Mohan
-  - Jayachandran
-album:
-avalable_on:
-  - vivo
-  - lenovo
-created_at: 2026-09-27T10:03:00
+- Sujatha Mohan
+- Jayachandran
+album: null
+created_at: 2026-09-27 10:03:00
+available_on:
+- vivo
+- lenovo
+- acer
 ---
 

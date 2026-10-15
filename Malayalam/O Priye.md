@@ -1,24 +1,30 @@
 ---
 tags:
-  - malayalam
-  - depression
+- malayalam
+- depression
+- mp3
+- asian
 track: O Priye
 album: Aniyathipravu (Original Motion Picture Soundtrack)
-year: "1997"
-rating: "100"
+year: '1997'
+rating: '100'
 artist:
-  - K. J. Yesudas
+- K. J. Yesudas
 composer: Ouseppachan
-avalable_on:
-  - mac
-  - lenovo
-  - vivo
-  - redmi
 lyricist: S. Ramesan Nair
 playlists:
-  - September 26
+- September 26
 created_at: 2026-09-01
-p1_order: "41"
+p1_order: '41'
+available_on:
+- mac
+- lenovo
+- vivo
+- redmi
+- acer
+singers:
+- Ouseppachan
+- K.J. Yesudas
 ---
 ***ഓ പ്രിയേ പ്രിയേ നിനക്കൊരു ഗാനം***  
 ***ഓ പ്രിയേ പ്രാണനിലുണരും ഗാനം***  
