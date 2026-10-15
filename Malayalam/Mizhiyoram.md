@@ -9,6 +9,7 @@ created_at: 2026-09-27 10:04:00
 available_on:
 - acer
 - vivo
+- redmi
 album: Manjil Virinja Pookkal (Original Motion Picture Soundtrack)
 singers:
 - S. Janaki

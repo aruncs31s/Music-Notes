@@ -5,6 +5,7 @@ tags:
 - mp3
 available_on:
 - acer
+- redmi
 created_at: '2026-10-10 11:13:54'
 album: R.I.P. (feat. Rita Ora & Anitta)
 singers:

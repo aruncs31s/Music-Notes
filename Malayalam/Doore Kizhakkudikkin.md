@@ -13,6 +13,7 @@ available_on:
 - acer
 - mac
 - vivo
+- redmi
 singers:
 - Kannur Rajan
 - M.G. Sreekumar

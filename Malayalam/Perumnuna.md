@@ -14,6 +14,7 @@ available_on:
 - mac
 - acer
 - vivo
+- redmi
 singers:
 - Alex Paul
 - Vijay Yesudas

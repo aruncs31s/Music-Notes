@@ -22,6 +22,7 @@ available_on:
 - mac
 - acer
 - vivo
+- redmi
 singers:
 - M. G. Sreekumar
 - K. S. Chithra

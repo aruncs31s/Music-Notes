@@ -19,6 +19,7 @@ rating: '70'
 available_on:
 - acer
 - vivo
+- redmi
 singers:
 - Sharreth
 - K.J. Yesudas

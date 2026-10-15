@@ -11,6 +11,7 @@ available_on:
 - mac
 - acer
 - vivo
+- redmi
 album: Dosth (Original Motion Picture Soundtrack)
 singers:
 - Vidyasagar

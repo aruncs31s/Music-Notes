@@ -1,0 +1,19 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - available_on.contains("redmi")
+    order:
+      - rating
+      - file.name
+      - available_on
+      - tags
+      - singers
+      - created_at
+      - playlists
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 478

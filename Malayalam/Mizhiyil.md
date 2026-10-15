@@ -9,6 +9,7 @@ available_on:
 - mac
 - acer
 - vivo
+- redmi
 album: Mayaanadhi (Original Motion Picture Soundtrack)
 singers:
 - Shahabaz Aman

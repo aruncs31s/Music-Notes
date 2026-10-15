@@ -5,6 +5,7 @@ tags:
 available_on:
 - acer
 - vivo
+- redmi
 created_at: '2026-10-10 11:13:53'
 album: Santhosh Subramaniyam - www.123musiq.com -  ® Riya collections ®
 singers:

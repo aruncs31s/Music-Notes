@@ -13,4 +13,5 @@ available_on:
 - vivo
 - lenovo
 - acer
+- redmi
 ---

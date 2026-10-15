@@ -5,6 +5,7 @@ tags:
 available_on:
 - acer
 - vivo
+- redmi
 created_at: '2026-10-10 11:13:52'
 album: O Saathi (From "Baaghi 2")
 singers:

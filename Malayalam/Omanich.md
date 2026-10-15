@@ -3,6 +3,7 @@ links:
 - https://open.spotify.com/track/5Ae6Yvoe9t2CayFEIH70z5
 available_on:
 - acer
+- redmi
 created_at: '2026-10-10 11:15:13'
 tags:
 - malayalam

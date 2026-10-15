@@ -8,6 +8,7 @@ available_on:
 - mac
 - acer
 - vivo
+- redmi
 album: Joker (Original Motion Picture Soundtrack)
 singers:
 - Mohan Sithara

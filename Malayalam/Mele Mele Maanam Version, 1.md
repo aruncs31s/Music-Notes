@@ -16,6 +16,7 @@ available_on:
 - vivo
 - mac
 - acer
+- redmi
 album: No.1 Snehatheeram Bangalore North (Original Motion Picture Soundtrack)
 singers:
 - Jerry Amaldev

@@ -11,4 +11,5 @@ available_on:
 - vivo
 - mac
 - acer
+- redmi
 ---

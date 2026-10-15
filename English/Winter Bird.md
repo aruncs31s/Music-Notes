@@ -6,6 +6,7 @@ tags:
 available_on:
 - acer
 - vivo
+- redmi
 created_at: '2026-10-10 11:14:00'
 album: All My Demons Greeting Me as a Friend
 singers:

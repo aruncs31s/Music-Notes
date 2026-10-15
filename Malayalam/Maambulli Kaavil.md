@@ -8,6 +8,7 @@ available_on:
 - mac
 - acer
 - vivo
+- redmi
 album: Kathaparayumbol (Original Motion Picture Soundtrack)
 singers:
 - M. Jayachandran

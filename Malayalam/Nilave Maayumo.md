@@ -12,6 +12,7 @@ available_on:
 - vivo
 - mac
 - acer
+- redmi
 album: Mohanlal Birthday Special
 singers:
 - MG Sreekumar

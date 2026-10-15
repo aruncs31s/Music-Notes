@@ -11,6 +11,7 @@ created_at: 2026-09-04 04:46:00
 available_on:
 - acer
 - vivo
+- redmi
 singers:
 - Leon James
 - Sid Sriram

@@ -15,6 +15,7 @@ available_on:
 - mac
 - acer
 - vivo
+- redmi
 album: Super 4 I  Swetha - Oru murai vandhu I Mazhavil Manorama
 singers:
 - Mazhavil Manorama

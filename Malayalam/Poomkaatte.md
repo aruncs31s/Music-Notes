@@ -12,6 +12,7 @@ available_on:
 - mac
 - acer
 - vivo
+- redmi
 album: Shyama (Original Motion Picture Soundtrack)
 singers:
 - Raghu Kumar

@@ -9,6 +9,7 @@ available_on:
 - vivo
 - mac
 - acer
+- redmi
 album: Niram
 singers:
 - Vidyasagar
