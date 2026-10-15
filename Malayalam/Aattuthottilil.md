@@ -1,10 +1,6 @@
 ---
 tags:
 - malayalam
-avalable_on:
-- acer
-- lenovo
-- mac
 playlists: null
 singers:
 - K. S. Chithra
@@ -14,4 +10,5 @@ available_on:
 - acer
 - lenovo
 - mac
+- vivo
 ---

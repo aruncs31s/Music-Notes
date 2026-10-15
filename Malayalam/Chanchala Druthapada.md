@@ -1,12 +1,6 @@
 ---
 playlists:
 - September 26
-avalable_on:
-- redmi
-- vivo
-- lenovo
-- mac
-- acer
 created_at: 2026-09-01
 tags:
 - malayalam

@@ -3,10 +3,10 @@ views:
     name: Table
     filters:
       and:
-        - '!avalable_on.contains("mac")'
+        - '!available_on.contains("mac")'
     order:
       - file.name
-      - avalable_on
+      - available_on
       - rating
       - playlists
       - created_at

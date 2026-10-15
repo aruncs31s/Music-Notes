@@ -1,7 +1,4 @@
 ---
-avalable_on:
-- mac
-- acer
 playlists:
 - Evergreen Malayalam
 tags:

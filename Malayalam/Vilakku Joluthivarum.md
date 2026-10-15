@@ -3,9 +3,6 @@ tags:
 - malayalam
 - romantic
 - duet
-avalable_on:
-- redmi
-- acer
 created_at: 2026-10-03 12:13:29
 status: null
 single_copy: null
@@ -18,5 +15,6 @@ playlists:
 available_on:
 - redmi
 - acer
+- vivo
 ---
 

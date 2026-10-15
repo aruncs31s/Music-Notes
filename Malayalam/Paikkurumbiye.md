@@ -1,8 +1,4 @@
 ---
-avalable_on:
-- vivo
-- lenovo
-- acer
 playlists:
 - September 26
 created_at: 2026-09-06 01:16:00

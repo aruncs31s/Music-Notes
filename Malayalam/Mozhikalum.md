@@ -1,9 +1,4 @@
 ---
-avalable_on:
-- redmi
-- lenovo
-- mac
-- acer
 playlists:
 - September 26
 created_at: 2026-09-01
@@ -16,4 +11,5 @@ available_on:
 - lenovo
 - mac
 - acer
+- vivo
 ---

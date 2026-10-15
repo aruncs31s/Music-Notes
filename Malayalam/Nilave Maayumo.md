@@ -1,8 +1,4 @@
 ---
-avalable_on:
-- vivo
-- mac
-- acer
 playlists:
 - September 26
 tags:

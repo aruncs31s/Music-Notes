@@ -3,11 +3,6 @@ tags:
 - malayalam
 - mp3
 - asian
-avalable_on:
-- lenovo
-- redmi
-- mac
-- acer
 playlists:
 - September 26
 created_at: 2026-09-01
@@ -18,6 +13,7 @@ available_on:
 - redmi
 - mac
 - acer
+- vivo
 album: Raveendran Master's Mega Hits Vol. 1
 singers:
 - Raveendran

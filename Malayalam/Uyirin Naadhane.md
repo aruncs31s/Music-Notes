@@ -1,0 +1,16 @@
+---
+tags:
+- malayalam
+- indian
+- mp3
+available_on:
+- acer
+- vivo
+created_at: '2026-10-10 11:13:56'
+album: Uyirin Naadhane (From "Joseph")
+singers:
+- Vijay Yesudas
+- Merin Gregory
+year: 2018
+---
+

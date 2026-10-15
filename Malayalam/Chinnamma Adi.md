@@ -3,15 +3,12 @@ tags:
 - malayalam
 - mp3
 - asian
-avalable_on:
-- mac
-- vivo
-- acer
+- english
 created_at: 2026-09-06
 available_on:
+- acer
 - mac
 - vivo
-- acer
 album: Oppam (Original Motion Picture Soundtrack)
 singers:
 - JIM

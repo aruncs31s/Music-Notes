@@ -1,10 +1,4 @@
 ---
-avalable_on:
-- redmi
-- lenovo
-- vivo
-- mac
-- acer
 playlists:
 - September 26
 tags:

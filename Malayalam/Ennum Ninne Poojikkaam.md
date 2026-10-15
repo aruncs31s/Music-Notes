@@ -8,12 +8,6 @@ tags:
 - asian
 playlists:
 - September 26
-avalable_on:
-- lenovo
-- redmi
-- vivo
-- mac
-- acer
 composer: Ouseppachan
 rating: 100
 created_at: 2026-09-01

@@ -1,9 +1,6 @@
 ---
 playlists:
 - 20s Malayalam
-avalable_on:
-- mac
-- acer
 year: 2001
 tags:
 - malayalam
@@ -13,6 +10,7 @@ created_at: 2026-09-27 10:04:00
 available_on:
 - mac
 - acer
+- vivo
 album: Dosth (Original Motion Picture Soundtrack)
 singers:
 - Vidyasagar

@@ -5,10 +5,9 @@ tags:
 - english
 - mp3
 - asian
-avalable_on:
-- acer
 available_on:
 - acer
+- vivo
 album: June (Original Motion Picture Soundtrack)
 singers:
 - Ifthi

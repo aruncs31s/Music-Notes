@@ -3,9 +3,6 @@ tags:
 - malayalam
 - mp3
 - asian
-avalable_on:
-- redmi
-- acer
 created_at: 2026-10-03 13:07:12
 status: null
 single_copy: null
@@ -15,6 +12,7 @@ singers:
 available_on:
 - redmi
 - acer
+- vivo
 album: Love Songs Forever
 ---
 

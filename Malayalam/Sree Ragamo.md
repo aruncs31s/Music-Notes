@@ -1,9 +1,4 @@
 ---
-avalable_on:
-- vivo
-- mac
-- redmi
-- acer
 playlists:
 - September 26
 - Legato Classical Melodic

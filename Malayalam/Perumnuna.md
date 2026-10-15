@@ -8,15 +8,12 @@ tags:
 - asian
 album: King Liar (Original Motion Picture Soundtrack)
 rating: '76'
-avalable_on:
-- lenovo
-- mac
-- acer
 created_at: 2026-09-01
 available_on:
 - lenovo
 - mac
 - acer
+- vivo
 singers:
 - Alex Paul
 - Vijay Yesudas

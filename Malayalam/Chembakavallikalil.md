@@ -2,12 +2,6 @@
 artist:
 - M.G.Sreekumar, Swetha Mohan
 album: Oru Marubhoomi Kadha
-avalable_on:
-- redmi
-- vivo
-- lenovo
-- mac
-- acer
 playlists:
 - September 26
 - Legato Classical Melodic

@@ -2,9 +2,6 @@
 tags:
 - malayalam
 - fem_vocals
-avalable_on:
-- redmi
-- acer
 created_at: 2026-10-03 12:23:15
 status: null
 single_copy: null
@@ -14,4 +11,5 @@ album: Aparichithan
 available_on:
 - redmi
 - acer
+- vivo
 ---

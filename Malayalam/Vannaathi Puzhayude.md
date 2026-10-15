@@ -2,11 +2,6 @@
 playlists:
 - September 26
 p1_order: '55'
-avalable_on:
-- lenovo
-- redmi
-- mac
-- acer
 tags:
 - malayalam
 - mp3
@@ -18,6 +13,7 @@ available_on:
 - redmi
 - mac
 - acer
+- vivo
 album: Kaliyattam (Original Motion Picture Soundtrack)
 singers:
 - Kaithapram

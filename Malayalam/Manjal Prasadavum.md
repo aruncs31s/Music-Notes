@@ -5,16 +5,16 @@ tags:
 - melodic
 - malayalam
 - mp3
-avalable_on:
-- lenovo
-- acer
+- soundtrack
 playlists:
 - Legato Classical Melodic
 album: Nakhakshathangal
 singers:
 - K. S. Chithra
 available_on:
-- lenovo
 - acer
+- lenovo
+- vivo
 created_at: '2026-10-10 11:14:00'
+year: 2019
 ---

@@ -2,9 +2,6 @@
 tags:
 - malayalam
 - mp3
-avalable_on:
-- mac
-- acer
 created_at: 2026-09-06
 playlists:
 - September 26
@@ -13,6 +10,7 @@ rating: '85'
 available_on:
 - mac
 - acer
+- vivo
 album: Chandranudikkunnadhikkil (Original Motion Picture Soundtrack)
 singers:
 - Vidyasagar

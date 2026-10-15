@@ -3,12 +3,6 @@ tags:
 - thamil
 - mp3
 - indian
-avalable_on:
-- lenovo
-- redmi
-- vivo
-- mac
-- acer
 playlists:
 - September 26
 created_at: 2026-09-01

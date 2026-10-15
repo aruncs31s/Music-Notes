@@ -1,8 +1,4 @@
 ---
-avalable_on:
-- vivo
-- mac
-- acer
 tags:
 - malayalam
 - mp3

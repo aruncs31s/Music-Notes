@@ -1,7 +1,4 @@
 ---
-avalable_on:
-- mac
-- acer
 tags:
 - romantic
 - thamil
@@ -15,6 +12,7 @@ rating: 80
 available_on:
 - mac
 - acer
+- vivo
 created_at: '2026-10-10 11:13:59'
 singers:
 - Yuvanshankar Raja

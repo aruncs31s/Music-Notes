@@ -11,12 +11,6 @@ rating: '100'
 artist:
 - K. J. Yesudas
 composer: Ouseppachan
-avalable_on:
-- mac
-- lenovo
-- vivo
-- redmi
-- acer
 lyricist: S. Ramesan Nair
 playlists:
 - September 26

@@ -1,10 +1,5 @@
 ---
 year: '2016'
-avalable_on:
-- lenovo
-- redmi
-- mac
-- acer
 created_at: 2026-09-01
 playlists:
 - September 26
@@ -19,6 +14,7 @@ available_on:
 - redmi
 - mac
 - acer
+- vivo
 album: Action Hero Biju (Original Motion Picture Soundtrack)
 singers:
 - Jerry Amaldev

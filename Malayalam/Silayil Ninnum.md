@@ -5,10 +5,9 @@ tags:
 - mp3
 - soundtrack
 created_at: 2026-09-27 10:05:00
-avalable_on:
-- acer
 available_on:
 - acer
+- vivo
 singers:
 - Deepak Dev
 - Sujatha Mohan

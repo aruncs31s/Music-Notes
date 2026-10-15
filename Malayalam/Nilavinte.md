@@ -12,11 +12,6 @@ year: '1995'
 rating: '90'
 artist: M. G. Sreekumar
 composer: M. G. Radhakrishnan
-avalable_on:
-- mac
-- lenovo
-- redmi
-- acer
 playlists:
 - September 26
 - Legato Classical Melodic
@@ -27,6 +22,7 @@ available_on:
 - lenovo
 - redmi
 - acer
+- vivo
 singers:
 - M. G. Sreekumar
 ---

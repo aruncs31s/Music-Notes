@@ -3,10 +3,9 @@ tags:
 - hindi
 - soundtrack
 - flac
-avalable_on:
-- acer
 available_on:
 - acer
+- vivo
 created_at: '2026-10-10 11:13:52'
 album: Zid (Original Motion Picture Soundtrack)
 singers:

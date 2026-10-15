@@ -16,10 +16,9 @@ artists:
 created_at: 2026-09-04 04:45:00
 p1_order: '54'
 rating: '70'
-avalable_on:
-- acer
 available_on:
 - acer
+- vivo
 singers:
 - Sharreth
 - K.J. Yesudas

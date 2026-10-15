@@ -1,11 +1,5 @@
 ---
 album: Chithram
-avalable_on:
-- redmi
-- vivo
-- lenovo
-- mac
-- acer
 playlists:
 - September 26
 - Legato Classical Melodic
@@ -16,15 +10,18 @@ tags:
 - classical
 - melodic
 - m4a
+- asian
+- mp3
 p1_order: '31'
 rating: 80
 available_on:
-- redmi
-- vivo
+- acer
 - lenovo
 - mac
-- acer
+- redmi
+- vivo
 singers:
 - Kannur Rajan
 - M.G. Sreekumar
+year: 2026
 ---

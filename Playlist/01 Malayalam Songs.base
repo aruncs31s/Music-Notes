@@ -6,6 +6,6 @@ views:
         - file.folder == "Malayalam"
     order:
       - file.name
-      - avalable_on
+      - available_on
       - file.ctime
       - playlists

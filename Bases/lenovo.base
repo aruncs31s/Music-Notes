@@ -3,13 +3,14 @@ views:
     name: Table
     filters:
       and:
-        - '!avalable_on.contains("lenovo")'
+        - '!available_on.contains("lenovo")'
     order:
-      - file.name
-      - avalable_on
-      - created_at
       - rating
-      - playlists
+      - file.name
+      - tags
       - singers
+      - available_on
+      - created_at
+      - playlists
     columnSize:
       file.name: 478

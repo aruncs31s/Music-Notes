@@ -1,4 +1,7 @@
-- [[Pranaya Vasantham]] – _Njan Ekananu_ (1982)  
+---
+available_on:
+- vivo
+---- [[Pranaya Vasantham]] – _Njan Ekananu_ (1982)  
     M. G. Radhakrishnan  
     K. J. Yesudas & K. S. Chithra
 - [[Azhake Nin Mizhineer]] – _Amaram_ (1991)  

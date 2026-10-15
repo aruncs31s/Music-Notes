@@ -9,11 +9,6 @@ tags:
 - soundtrack
 album: Mr Brahmachari
 rating: 80
-avalable_on:
-- redmi
-- lenovo
-- mac
-- acer
 artists: null
 year: '2004'
 created_at: 2026-09-01
@@ -22,6 +17,7 @@ available_on:
 - lenovo
 - mac
 - acer
+- vivo
 singers:
 - M.G.Sreekumar
 - Radhika Thilak

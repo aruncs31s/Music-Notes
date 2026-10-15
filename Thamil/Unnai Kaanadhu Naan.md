@@ -2,11 +2,6 @@
 playlists:
 - September 26
 status: null
-avalable_on:
-- redmi
-- lenovo
-- mac
-- acer
 created_at: 2026-09-01
 tags:
 - malayalam
@@ -20,6 +15,7 @@ available_on:
 - lenovo
 - mac
 - acer
+- vivo
 album: Vishwaroopam (Tamil) [Original Motion Picture Soundtrack]
 singers:
 - Shankar-Ehsaan-Loy

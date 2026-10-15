@@ -6,17 +6,13 @@ rating: '90'
 playlists:
 - September 26
 p1_order: '44'
-avalable_on:
-- lenovo
-- redmi
-- mac
-- acer
 created_at: 2026-09-01
 available_on:
 - lenovo
 - redmi
 - mac
 - acer
+- vivo
 ---
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1PhS0Htm6K7b8UVgVMoEnM?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 # Parayathe Ariyathe

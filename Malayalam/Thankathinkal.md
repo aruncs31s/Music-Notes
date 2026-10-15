@@ -1,7 +1,4 @@
 ---
-avalable_on:
-- mac
-- acer
 year: 1996
 playlists:
 - September 26
@@ -24,6 +21,7 @@ created_at: 2026-09-27 10:05:00
 available_on:
 - mac
 - acer
+- vivo
 singers:
 - Vidyasagar
 - K. S. Chithra

@@ -1,11 +1,5 @@
 ---
 year: 2002
-avalable_on:
-- vivo
-- lenovo
-- redmi
-- mac
-- acer
 album: Gramaphone
 tags:
 - malayalam

@@ -2,10 +2,9 @@
 tags:
 - english
 - mp3
-avalable_on:
-- acer
 available_on:
 - acer
+- vivo
 created_at: '2026-10-10 11:13:57'
 singers:
 - F.O.O.L
