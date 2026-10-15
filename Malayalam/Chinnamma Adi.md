@@ -9,6 +9,7 @@ available_on:
 - acer
 - mac
 - vivo
+- redmi
 album: Oppam (Original Motion Picture Soundtrack)
 singers:
 - JIM

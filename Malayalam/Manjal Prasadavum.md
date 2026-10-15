@@ -15,6 +15,7 @@ available_on:
 - acer
 - lenovo
 - vivo
+- redmi
 created_at: '2026-10-10 11:14:00'
 year: 2019
 ---

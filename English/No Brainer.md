@@ -6,6 +6,7 @@ tags:
 available_on:
 - acer
 - vivo
+- redmi
 created_at: '2026-10-10 11:13:55'
 album: No Brainer (feat. Justin Bieber, Chance the Rapper & Quavo)
 singers:

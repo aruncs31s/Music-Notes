@@ -6,4 +6,5 @@ rating: 75
 available_on:
 - acer
 - vivo
+- redmi
 ---

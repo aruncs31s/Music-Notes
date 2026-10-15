@@ -13,6 +13,7 @@ available_on:
 - mac
 - acer
 - vivo
+- redmi
 album: Thalavattam (Original Motion Picture Soundtrack)
 singers:
 - M. G. Sreekumar

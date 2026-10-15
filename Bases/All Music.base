@@ -4,6 +4,9 @@ views:
     filters:
       and:
         - '!file.name.endsWith(".base")'
+        - file.name != "hindi"
+        - file.name != "thamil"
+        - file.name != "malayalam"
     order:
       - file.name
       - created_at
@@ -12,9 +15,9 @@ views:
       - file.ctime
       - file.mtime
     sort:
-      - property: file.mtime
-        direction: DESC
       - property: created_at
+        direction: ASC
+      - property: file.mtime
         direction: DESC
       - property: file.ctime
         direction: ASC

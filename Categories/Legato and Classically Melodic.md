@@ -1,6 +1,7 @@
 ---
 available_on:
 - vivo
+- redmi
 ---- [[Pranaya Vasantham]] – _Njan Ekananu_ (1982)  
     M. G. Radhakrishnan  
     K. J. Yesudas & K. S. Chithra

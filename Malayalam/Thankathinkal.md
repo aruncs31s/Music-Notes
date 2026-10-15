@@ -22,6 +22,7 @@ available_on:
 - mac
 - acer
 - vivo
+- redmi
 singers:
 - Vidyasagar
 - K. S. Chithra

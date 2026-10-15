@@ -8,6 +8,7 @@ tags:
 available_on:
 - acer
 - vivo
+- redmi
 album: June (Original Motion Picture Soundtrack)
 singers:
 - Ifthi

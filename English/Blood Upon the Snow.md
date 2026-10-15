@@ -6,6 +6,7 @@ tags:
 available_on:
 - acer
 - vivo
+- redmi
 created_at: '2026-10-10 11:13:55'
 album: God of War Ragnarök (Original Soundtrack)
 singers:

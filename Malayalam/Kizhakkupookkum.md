@@ -7,6 +7,7 @@ available_on:
 - mac
 - acer
 - vivo
+- redmi
 album: Gopi Sundar
 singers:
 - Gopi Sundar

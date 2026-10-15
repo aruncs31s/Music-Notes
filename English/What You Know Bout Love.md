@@ -6,6 +6,7 @@ tags:
 available_on:
 - acer
 - vivo
+- redmi
 created_at: '2026-10-10 11:13:55'
 album: Shoot For The Stars Aim For The Moon
 singers:

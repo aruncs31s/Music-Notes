@@ -6,6 +6,7 @@ tags:
 available_on:
 - acer
 - vivo
+- redmi
 created_at: '2026-10-10 11:13:56'
 album: Get You The Moon (feat. Snøw)
 singers:

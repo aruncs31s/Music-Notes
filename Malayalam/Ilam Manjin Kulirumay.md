@@ -8,5 +8,6 @@ lyrics_available: null
 available_on:
 - acer
 - vivo
+- redmi
 ---
 

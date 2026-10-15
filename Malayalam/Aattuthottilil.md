@@ -11,4 +11,5 @@ available_on:
 - lenovo
 - mac
 - vivo
+- redmi
 ---
