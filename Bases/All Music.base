@@ -15,9 +15,9 @@ views:
       - file.ctime
       - file.mtime
     sort:
-      - property: created_at
-        direction: ASC
       - property: file.mtime
         direction: DESC
       - property: file.ctime
+        direction: DESC
+      - property: created_at
         direction: ASC

@@ -12,5 +12,8 @@ views:
       - available_on
       - created_at
       - playlists
+    sort:
+      - property: created_at
+        direction: ASC
     columnSize:
       file.name: 478

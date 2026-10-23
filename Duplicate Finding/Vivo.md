@@ -2609,7 +2609,7 @@ estimated_wasted_space_gb: 7.26
 - [x] ⭐ **KEEP** (`10.04 MB`) — `/storage/emulated/0/music/Hindi/Arjith Singh/Shayad - Pritam, Arijit Singh.m4a`
 - [ ] 🗑️ DELETE (`9.61 MB`) — `/storage/emulated/0/Music/Take Me Home/Pritam - Shayad (From  Love Aaj Kal ).mp3`
 
-### 606. [[SHREYA GHOSHAL LIVE - Surmayi Akhiyon Mein Nanha Munha Ek Sapna - with Yesudas Live - HD]] (2 copies)
+### 606. [[Surmayi Akhiyon Mein Nanha Munha Ek Sapna]] (2 copies)
 - [x] ⭐ **KEEP** (`11.08 MB`) — `/storage/emulated/0/Music/ADB/SHREYA GHOSHAL LIVE - Surmayi Akhiyon Mein Nanha Munha Ek Sapna - with Yesudas Live - HD - 0AzgarKhan0.mp3`
 - [ ] 🗑️ DELETE (`11.08 MB`) — `/storage/emulated/0/music/Malayalam/SHREYA GHOSHAL LIVE - Surmayi Akhiyon Mein Nanha Munha Ek Sapna - with Yesudas Live - HD - 0AzgarKhan0.mp3`
 
